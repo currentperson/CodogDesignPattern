@@ -1,4 +1,4 @@
-package composite_pattern.better;
+package composite.better;
 
 import java.util.ArrayList;
 import java.util.List;

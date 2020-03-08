@@ -1,4 +1,4 @@
-package composite_pattern;
+package composite;
 
 import lombok.Data;
 

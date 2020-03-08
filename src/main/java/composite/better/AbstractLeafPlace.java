@@ -1,4 +1,4 @@
-package composite_pattern.better;
+package composite.better;
 
 public abstract class AbstractLeafPlace implements Place {
 
