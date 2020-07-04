@@ -41,3 +41,5 @@ b
 .src/main/java/reader_writer_lock/BadEvent.java,d/4/d4559d9b2d66c006ebd71a57faff6ec129e39ffd
 Y
 )src/main/java/reader_writer_lock/App.java,0/5/052dcb1944f1ed80c53fbbcf1bcfd8ff1415d175
+_
+/src/main/java/reader_writer_lock/BetterApp.java,2/8/28cf952e3b9b434b6aac9492eea1632b0701a609

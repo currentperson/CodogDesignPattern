@@ -1,0 +1,11 @@
+
+U	java:S106:"9Replace this use of System.out or System.err by a logger.(§ñ¡ü8‹ó›Î¯.
+V	java:S125+"<This block of commented-out lines of code should be removed.(üÃôòÿÿÿÿÿ
+]
+java:S22225";Unlock this lock along all executions paths of this method.(þÝŠŒøÿÿÿÿ8©›Î¯.
+c
+java:S2142!"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8÷òžÎ¯.
+E
+java:S1148""#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8÷òžÎ¯.
+E
+java:S1611"/Remove the parentheses around the "i" parameter(©åÀ

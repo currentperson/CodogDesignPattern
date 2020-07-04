@@ -1,9 +1,9 @@
 
-L
-java:S1611"/Remove the parentheses around the "i" parameter(©åÀ8ÜÎŞä¬.
 E
 java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÜÎŞä¬.
+U	java:S1060"9Replace this use of System.out or System.err by a logger.(§ñ¡ü8ÔŠÊä¬.
+]	java:S125$"<This block of commented-out lines of code should be removed.(üÃôòÿÿÿÿÿ8²ÔÑ·­.
 c
 java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ÜÎŞä¬.
-]	java:S125$"<This block of commented-out lines of code should be removed.(üÃôòÿÿÿÿÿ8²ÔÑ·­.
-U	java:S1060"9Replace this use of System.out or System.err by a logger.(§ñ¡ü8ÔŠÊä¬.
+L
+java:S1611"/Remove the parentheses around the "i" parameter(©åÀ8ÜÎŞä¬.
