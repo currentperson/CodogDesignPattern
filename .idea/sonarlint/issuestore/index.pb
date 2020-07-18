@@ -43,3 +43,13 @@ Y
 )src/main/java/reader_writer_lock/App.java,0/5/052dcb1944f1ed80c53fbbcf1bcfd8ff1415d175
 _
 /src/main/java/reader_writer_lock/BetterApp.java,2/8/28cf952e3b9b434b6aac9492eea1632b0701a609
+X
+(src/main/java/singleton/SimpleCoder.java,9/f/9fa253bc9ac5681a858f6ae819e56c306c92801f
+W
+'src/main/java/singleton/MusicLover.java,0/7/0757b998d9c5718214ca2e9e15968ce542c60d09
+U
+%src/main/java/prototype/BeanUtil.java,4/b/4b364e3b0490cff322ad91e506be0fed7d4bf054
+W
+'src/main/java/singleton/MemoryCard.java,9/b/9b513fa3f71650162f1cf35cef1f4357bc15b00a
+P
+ src/main/java/singleton/App.java,d/b/dbf440d1086b18215d9a1c5210d527ea95a87541
