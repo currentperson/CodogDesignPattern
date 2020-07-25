@@ -53,3 +53,11 @@ W
 'src/main/java/singleton/MemoryCard.java,9/b/9b513fa3f71650162f1cf35cef1f4357bc15b00a
 P
  src/main/java/singleton/App.java,d/b/dbf440d1086b18215d9a1c5210d527ea95a87541
+L
+src/main/java/proxy/App.java,f/4/f427c7a9fe07b778ebff8d8a83b98bcaa3899ec6
+N
+src/main/java/proxy/Owner.java,b/d/bd563c6096d3cc26f87ee3abb0fd557f68920a51
+S
+#src/main/java/proxy/ProxyOwner.java,6/4/64918d18e1a88bc893e56c2d663c011ef23f6b0c
+R
+"src/main/java/proxy/RealOwner.java,1/4/14e94e4021093d3753036675c0c12836a484b63f
