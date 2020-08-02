@@ -61,3 +61,13 @@ S
 #src/main/java/proxy/ProxyOwner.java,6/4/64918d18e1a88bc893e56c2d663c011ef23f6b0c
 R
 "src/main/java/proxy/RealOwner.java,1/4/14e94e4021093d3753036675c0c12836a484b63f
+P
+ src/main/java/strangler/App.java,2/7/274307dd7fdd99944dd7bdf64341941fa182677c
+P
+ src/main/java/strangler/Man.java,8/0/80d48bf966ad5cb5919210e60165dfbb97392439
+S
+#src/main/java/strangler/OldMan.java,0/3/03109bf3c7804adac5faaac7911690158f3c490c
+S
+#src/main/java/strangler/NewMan.java,2/e/2e9656bb14efb2f284191bc8614bae5890d48d12
+T
+$src/main/java/strangler/HalfMan.java,3/2/321795fe23dcceeed87617d3c31168d0575e147f
