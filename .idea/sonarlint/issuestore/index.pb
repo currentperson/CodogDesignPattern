@@ -71,3 +71,11 @@ S
 #src/main/java/strangler/NewMan.java,2/e/2e9656bb14efb2f284191bc8614bae5890d48d12
 T
 $src/main/java/strangler/HalfMan.java,3/2/321795fe23dcceeed87617d3c31168d0575e147f
+[
++src/main/java/attribute_annotation/App.java,a/d/adc0e2bf977b94bc1a8aa1584103762ab4e1f0d3
+^
+.src/main/java/attribute_annotation/JkGirl.java,6/4/645088c9e1547ae24ea9aa390abb9ef3d480b29f
+_
+/src/main/java/attribute_annotation/Leakage.java,a/d/ad0d08efa90b1471f649bd11575d3e43cc3ba1df
+b
+2src/main/java/attribute_annotation/Enterprise.java,0/4/043ad780660a8a8ebc20b0141b899b03eb606905
