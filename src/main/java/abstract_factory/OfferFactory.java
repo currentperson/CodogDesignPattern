@@ -11,5 +11,4 @@ public interface OfferFactory {
     Paper createPaper();
 
     Seal createSeal();
-
 }

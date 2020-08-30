@@ -1,6 +1,6 @@
 package abstract_factory;
 
-import abstract_factory.impl.RealOfferFactory;
+import abstract_factory.impl.FakeOfferFactory;
 
 /**
  * @author : wangwenhan
@@ -8,7 +8,7 @@ import abstract_factory.impl.RealOfferFactory;
  */
 public class App {
     public static void main(String[] args) {
-        OfferFactory offerFactory = new RealOfferFactory();
+        OfferFactory offerFactory = new FakeOfferFactory();
         offerFactory.createOffer().print();
         offerFactory.createPaper().print();
         offerFactory.createSeal().print();
