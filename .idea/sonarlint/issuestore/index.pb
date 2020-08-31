@@ -107,3 +107,7 @@ W
 'src/main/java/abstract_factory/App.java,5/2/523be79e3bdcae7254841d2991d2bd5e997bcd00
 `
 0src/main/java/abstract_factory/OfferFactory.java,9/5/95846e1725d5950b0b6d6f15682ff76b3bd617fe
+c
+3src/main/java/thread_local/ClosableThreadLocal.java,1/e/1ec969f938f980db7f52048ae21f85177fb5fef3
+T
+$src/main/java/thread_local/Test.java,0/a/0a39515c8655776190b9f8ac936a330df3e669d8
